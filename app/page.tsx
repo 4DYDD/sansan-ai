@@ -7,7 +7,7 @@ import Mascot, { EmotionKey, EmotionsMap } from "./components/Mascot";
 import DOMPurify from "dompurify";
 
 // Daftar emosi dan emoji maskot sementara
-export const EMOTIONS: EmotionsMap = {
+const EMOTIONS: EmotionsMap = {
   senang: { label: "Senang", emoji: "😄" },
   kesal: { label: "Kesal", emoji: "😤" },
   marah: { label: "Marah", emoji: "😡" },
