@@ -1,0 +1,465 @@
+node:internal/modules/cjs/loader:1404
+  throw err;
+  ^
+
+Error: Cannot find module 'next'
+Require stack:
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Module._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/home/diey9762/public_html/sansan-ai.dier.my.id/app.js:8:14)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/diey9762/public_html/sansan-ai.dier.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v22.17.0
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⚠ Installing TypeScript as it was not found while loading "next.config.ts".
+ ⨯ Failed to load next.config.ts, see more info here https://nextjs.org/docs/messages/next-config-error
+❌ Failed to start Next server: [Error: Cannot find module 'typescript'
+Require stack:
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/build/next-config-ts/transpile-config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/config.js
+- /home/diey9762/nodevenv/public_html/sansan-ai.dier.my.id/22/lib/node_modules/next/dist/server/next.js
+- /home/diey9762/public_html/sansan-ai.dier.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
